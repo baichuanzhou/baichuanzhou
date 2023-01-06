@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on training neural nets
+- 👯 I’m looking to collaborate on [pytorch-cifar10](https://github.com/baichuanzhou/pytorch-cifar10)
+- 📫 How to reach me: Email me baichuanzhou@buaa.edu.cn
+- 😄 Pronouns: he/him/his
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baichuanzhou&show_icons=true&locale=en" alt="baichuanzhou" /></p>
