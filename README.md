@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email me baichuanzhou@buaa.edu.cn
 - 😄 Pronouns: he/him/his
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baichuanzhou&label=Profile%20views&color=0e75b6&style=flat" alt="baichuanzhou" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baichuanzhou&show_icons=true&locale=en" alt="baichuanzhou" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baichuanzhou&" alt="baichuanzhou" /></p>
 
