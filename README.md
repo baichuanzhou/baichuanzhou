@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on training neural nets
+- 🔭 I’m currently working on multimodal problems, VLP for example
 - 👯 I’m looking to collaborate on [pytorch-cifar10](https://github.com/baichuanzhou/pytorch-cifar10)
 - 📫 How to reach me: Email me baichuanzhou@buaa.edu.cn
 - 😄 Pronouns: he/him/his
