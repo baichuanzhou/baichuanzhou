@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email me baichuanzhou@buaa.edu.cn
 - 😄 Pronouns: he/him/his
 
-<h3 align="left">Connect with me: My [Email](baichuanzhou@buaa.edu.cn)</h3>
 <p align="left">
 </p>
 
