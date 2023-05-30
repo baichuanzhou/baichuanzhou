@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 - 🔭 I like training neural nets
 - 👯 I’m looking to collaborate on [pytorch-cifar10](https://github.com/baichuanzhou/pytorch-cifar10)
-- 📫 How to reach me: Email me baichuanzhou@buaa.edu.cn or baichuanzhou44@gmail.com
+- 📫 How to reach me: Email me baichuanzhou@buaa.edu.cn
 - 😄 Pronouns: he/him/his
 
-<h3 align="left">Connect with me: My Email</h3>
+<h3 align="left">Connect with me: My [Email](baichuanzhou@buaa.edu.cn)</h3>
 <p align="left">
 </p>
 
