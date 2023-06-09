@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I like training neural nets
-- 👯 I’m looking to collaborate on [pytorch-cifar10](https://github.com/baichuanzhou/pytorch-cifar10)
+- 👯 I’m looking to collaborate on [intuitive-deep-learning](https://github.com/baichuanzhou/intuitive-classification)
 - 📫 How to reach me: Email me baichuanzhou@buaa.edu.cn
 - 😄 Pronouns: he/him/his
 
