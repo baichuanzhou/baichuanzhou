@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baichuanzhou&show_icons=true&locale=en" alt="baichuanzhou" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baichuanzhou&" alt="baichuanzhou" /></p>
 
